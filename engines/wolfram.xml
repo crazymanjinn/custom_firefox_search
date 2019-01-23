@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:moz="http://www.mozilla.org/2006/browser/search">
+<ShortName>WolframAlpha</ShortName>
+<Description>Search Wolfram|Alpha: Computational Intelligence</Description>
+<InputEncoding>UTF-8</InputEncoding>
+<Image height="16" width="16">https://www.wolframalpha.com/favicon.ico</Image>
+<Url type="text/html" template="https://www.wolframalpha.com/input/?i={searchTerms}"/>
+<moz:SearchForm>https://www.wolframalpha.com</moz:SearchForm>
+</OpenSearchDescription>
